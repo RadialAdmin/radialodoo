@@ -1,2 +1,2 @@
 # radialodoo
-radial module for odoo
+radial module for odoo 2015
